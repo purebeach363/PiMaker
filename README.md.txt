@@ -1,0 +1,2 @@
+This project is inspired by Estimate Pi with Random Numbers (https://codeinplace.stanford.edu/cipx/learn/random/0yiwiv). 
+I added visual representation of a circle inscribed in a rectangle, keeping the original underlying logic. The circle and rectangle are populated with a number of randomly thrown darts that is specified by a user. Users can see how the visual representation changes with each iteration, as they're kept in a loop.
